@@ -1,0 +1,21 @@
+{
+  "name": "chrome-extension-network",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-ui-router": "ui-router#^0.2.18",
+    "angular-material": "^1.0.8",
+    "d3": "^3.5.17",
+    "nvd3": "^1.8.3",
+    "angularLocalStorage": "^0.3.2",
+    "angular-nvd3": "^1.0.7"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "resolutions": {
+    "angular": "^1.5.5"
+  }
+}
